@@ -47,6 +47,10 @@
     background-color: #C271FF;
 }
 
+.bg-fritos {
+    background-color: #071629;
+}
+
 .big-principal-title {
     font-size: 120px;
     color: #fff;
@@ -75,8 +79,13 @@ ul {
 }
 
 
-/* Miembros Fritos */
+/* pie glande */
 
-.bg-fritos {
-    background-color: #071629;
+.icono {
+    font-size: 30px;
+    color: white;
+}
+
+.transparencia {
+    opacity: 0.35;
 }
