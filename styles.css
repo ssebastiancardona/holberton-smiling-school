@@ -2,11 +2,23 @@
     font-family: 'Source Sans Pro';
 }
 
+
+/* Header homepague*/
+
 .negrita {
     background-image: url(images/pic_1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.carrusel {
+    /*pendiente*/
+    position: absolute;
+    width: 1440px;
+    height: 392px;
+    left: 0px;
+    top: 1093px;
 }
 
 
@@ -40,4 +52,20 @@
 ul {
     color: #FFFFFF;
     align-items: flex-end;
+}
+
+
+/* carrusel de videos */
+
+.tarjeta-video {
+    width: 255px;
+    height: 355px;
+}
+
+.px14 {
+    font-size: 14px;
+}
+
+.play {
+    margin: -110px 0 40px 85px;
 }
