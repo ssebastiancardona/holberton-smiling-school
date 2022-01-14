@@ -1,0 +1,43 @@
+* {
+    font-family: 'Source Sans Pro';
+}
+
+.negrita {
+    background-image: url(images/pic_1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* Fonts */
+
+.fon-coiny {
+    font-family: 'Coiny';
+}
+
+
+/* Principal Colors */
+
+.principal-color {
+    color: #C271FF;
+}
+
+.bg-principal-color {
+    background-color: #C271FF;
+}
+
+.big-principal-title {
+    font-size: 120px;
+    color: #fff;
+}
+
+.principal-subtitle {
+    font-size: 16px;
+    color: #fff;
+}
+
+ul {
+    color: #FFFFFF;
+    align-items: flex-end;
+}
