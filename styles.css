@@ -28,6 +28,14 @@
     font-family: 'Coiny';
 }
 
+.px14 {
+    font-size: 14px;
+}
+
+.px18 {
+    font-size: 18px;
+}
+
 
 /* Principal Colors */
 
@@ -62,10 +70,13 @@ ul {
     height: 355px;
 }
 
-.px14 {
-    font-size: 14px;
-}
-
 .play {
     margin: -110px 0 40px 85px;
+}
+
+
+/* Miembros Fritos */
+
+.bg-fritos {
+    background-color: #071629;
 }
