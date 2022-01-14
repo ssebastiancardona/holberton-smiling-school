@@ -3,10 +3,17 @@
 }
 
 
-/* Header homepague*/
+/* Headers */
 
 .negrita {
     background-image: url(images/pic_1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.negrita2 {
+    background-image: url(images/pic_2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -34,6 +41,14 @@
 
 .px18 {
     font-size: 18px;
+}
+
+.px32 {
+    font-size: 32px;
+}
+
+.px60 {
+    font-size: 60px;
 }
 
 
