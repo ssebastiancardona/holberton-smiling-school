@@ -19,6 +19,13 @@
     background-size: cover;
 }
 
+.monita {
+    background-image: url(images/pic_3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .carrusel {
     /*pendiente*/
     position: absolute;
@@ -30,6 +37,10 @@
 
 
 /* Fonts */
+
+.negrilla {
+    font-weight: bold;
+}
 
 .fon-coiny {
     font-family: 'Coiny';
@@ -47,12 +58,20 @@
     font-size: 32px;
 }
 
+.px44 {
+    font-size: 44px;
+}
+
 .px60 {
     font-size: 60px;
 }
 
 
 /* Principal Colors */
+
+.white {
+    color: #fff;
+}
 
 .principal-color {
     color: #C271FF;
@@ -103,4 +122,24 @@ ul {
 
 .transparencia {
     opacity: 0.35;
+}
+
+
+/* test colores */
+
+.verde {
+    background-color: green;
+}
+
+.gris {
+    background-color: thistle;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+.linea {
+    background-color: #979797;
+    opacity: 0.2;
 }
